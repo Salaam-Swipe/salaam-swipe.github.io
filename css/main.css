@@ -160,7 +160,7 @@ a:hover, a:focus {
 
 }
 
-.news a btn-default {
+.news .readMore {
     background: #db2127 !important;
     color: white !important;
     font-family: Helvetica !important;
@@ -170,7 +170,7 @@ a:hover, a:focus {
 
 }
 
-.news a btn-default:hover{
+.news .readMore:hover{
     background-color: #148682 !important;
     color: white !important;
 }
