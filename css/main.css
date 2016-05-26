@@ -160,7 +160,7 @@ a:hover, a:focus {
 
 }
 
-.news button {
+.news btn {
     background: #db2127;
     color: white;
     font-family: Helvetica;
@@ -172,7 +172,7 @@ a:hover, a:focus {
 
 }
 
-.news button:hover{
+.news btn:hover{
     background-color: #148682;
     color: white;
 }
