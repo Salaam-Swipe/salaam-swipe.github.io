@@ -160,20 +160,19 @@ a:hover, a:focus {
 
 }
 
-.news btn-default {
-    background: #db2127;
-    color: white;
-    font-family: Helvetica;
-    border: #b9b9b9;
-    padding-top: 10px;
-    padding-left: 30px;
-    padding-right: 30px;
+.news a btn-default {
+    background: #db2127 !important;
+    color: white !important;
+    font-family: Helvetica !important;
+    border: #b9b9b9 !important;
+    padding-left: 30px !important;
+    padding-right: 30px !important;
 
 }
 
-.news btn-default:hover{
-    background-color: #148682;
-    color: white;
+.news a btn-default:hover{
+    background-color: #148682 !important;
+    color: white !important;
 }
 
 .news .postTitle{
