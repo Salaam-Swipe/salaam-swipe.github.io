@@ -161,12 +161,11 @@ a:hover, a:focus {
 }
 
 .news .readMore {
-    background: #db2127 !important;
-    color: white !important;
-    font-family: Helvetica !important;
-    border: #b9b9b9 !important;
-    padding-left: 30px !important;
-    padding-right: 30px !important;
+    background: #db2127;
+    color: white;
+    font-family: Helvetica;
+    border: #b9b9b9;
+    padding: 10px 30px 10px 30px;
 
 }
 
