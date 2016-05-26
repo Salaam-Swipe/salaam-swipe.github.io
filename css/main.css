@@ -160,18 +160,19 @@ a:hover, a:focus {
 
 }
 
-.news btn-default{
+.news button {
     background: #db2127;
     color: white;
     font-family: Helvetica;
     border: #b9b9b9;
     padding-top: 10px;
+    padding-bottom: 10px;
     padding-left: 30px;
     padding-right: 30px;
 
 }
 
-.news btn-default:hover{
+.news button:hover{
     background-color: #148682;
     color: white;
 }
