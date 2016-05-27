@@ -390,7 +390,7 @@ label {
     list-style-type: none;
 }
 .article img {
-  height: 250px;
+  width: 250px;
   float: left;
   margin-right: 10px
 }
